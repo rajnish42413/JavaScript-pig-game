@@ -10,4 +10,4 @@
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-![alt text](https://res.cloudinary.com/dh7apsl5o/image/upload/v1544185452/pig-game_sh7lm2.png)
+![alt text](https://res.cloudinary.com/dh7apsl5o/image/upload/v1544185687/pig-game-pic_ifktur.png)
