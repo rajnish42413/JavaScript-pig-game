@@ -9,4 +9,5 @@
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-https://res.cloudinary.com/dh7apsl5o/image/upload/v1544185452/pig-game_sh7lm2.png
+
+![alt text](https://res.cloudinary.com/dh7apsl5o/image/upload/v1544185452/pig-game_sh7lm2.png)
